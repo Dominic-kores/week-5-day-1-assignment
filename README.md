@@ -1,8 +1,8 @@
-# Kenyan Cities REST API
+# Kenyan Cities EXpress Endpoints
 
 ## Overview
 
-The **Kenyan Cities REST API** is a backend development project built with **Node.js** and **Express.js**.
+The **Kenyan Cities Express Endpoints** is a backend development project built with **Node.js** and **Express.js**.
 
 The project was created to practise the core concepts of backend development, including:
 
